@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinGoogleMap</string>
+    <string name="google_maps_key">AIzaSyDMB5ODRcZsuXBWRcpSbcE2ZFDCGW0zgDQ</string>
+</resources>
